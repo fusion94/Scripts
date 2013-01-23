@@ -1,15 +1,6 @@
 Scripts
 =======
 
-## Credits
-This collection of vaguely useful tools is brought to you by William Morgan and the following honorable contributors:
-
-* David Soria Parra <dsp@...>
-* Wade Simmons <wsimmons@...>
-* Jeff Balogh <its.jeff.balogh@...>
-* Jordi Bunster <jordi@...>
-
-
 ## git-wtf
 
 ### Description
@@ -49,4 +40,12 @@ You give it a branch name, and that branch is published in your remote repositor
 
 Useful if you publish your topic branches to the outside world.
 
+## Credits
+
+git-wtf, git-rank-contributors and git-publish-branch were done by William Morgan and the following honorable contributors:
+
+* David Soria Parra <dsp@...>
+* Wade Simmons <wsimmons@...>
+* Jeff Balogh <its.jeff.balogh@...>
+* Jordi Bunster <jordi@...>
 
