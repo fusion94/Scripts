@@ -1,6 +1,4 @@
 #!/bin/bash
-# Proper header for a Bash script.
-
 # ds_cleanup.sh, version 1
 #
 
