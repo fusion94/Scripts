@@ -71,4 +71,5 @@ echo -e "\n"
 
 echo "*******************************************************************************"
 echo "Repository Setup Complete -- Don't forget to PUSH to GitHub"
+echo "git push -u origin master"
 echo "*******************************************************************************"
