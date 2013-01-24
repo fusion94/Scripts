@@ -8,4 +8,3 @@ Each script is in its own folder, and a README file which contains details of wh
 
 ### License 
 All scripts are released under the Mozilla Public License Version 2.0 unless otherwise specified.
-
