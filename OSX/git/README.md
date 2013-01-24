@@ -1,6 +1,14 @@
 Scripts
 =======
 
+## gh-init
+
+### Description
+
+Simple GitHub initialization script. The first step is creating the repository at GitHub. Once created at GitHub, run the script, giving it the name of the repository and the type of License to use.
+
+`./gh-init.sh test Mozilla`
+
 ## git-wtf
 
 ### Description
